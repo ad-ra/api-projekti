@@ -1,0 +1,3 @@
+DELETE FROM person;
+DELETE FROM pet;
+DELETE FROM home;
